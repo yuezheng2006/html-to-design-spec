@@ -49,3 +49,7 @@ The skill is designed for use with AI coding agents. The main workflow is docume
 ## License
 
 This skill is ported from the original [skills repository](https://github.com/opoojkk/skills).
+
+## 中文版本
+
+中文文档请查看 [README_zh.md](README_zh.md)。
